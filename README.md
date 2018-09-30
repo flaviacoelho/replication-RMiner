@@ -1,7 +1,9 @@
 ## Replication Results
 
 [ToolsRefactorings.csv] - TPs, FPs, FNs, precision and recall of RMiner and RefDiff for the sample.
+
 [ToolsExecutionTime.csv] - RMiner and RefDiff running time for the sample.
+
 [dataSample.json] - Sample extracted from http://refactoring.encs.concordia.ca/oracle/api.php?json [Tsantalis et al. 2018].
 
 #### Reference
