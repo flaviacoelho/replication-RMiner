@@ -1,6 +1,6 @@
 ## Replication Results
 
-[ToolsRefactorings.csv] - TPs, FPs, FNs, precision and recall of RMiner and RefDiff for the sample.
+[ToolsRefactorings.csv] - #TPs, #FPs, #FNs, precision and recall of RMiner and RefDiff for the sample.
 
 [ToolsExecutionTime.csv] - RMiner and RefDiff running time for the sample.
 
